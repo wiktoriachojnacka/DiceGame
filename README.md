@@ -1,6 +1,6 @@
 # DiceGame
 
-##DICE GAME
+DICE GAME
 
 After pressing the "Roll the dice" button, both dice draw a number. Depending on which player has the higher number, the header shows who won, or if there is a tie. 
 A simple game to remind yourself of the basic comptents in fornenda and javascipt.
